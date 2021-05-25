@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
+
+.pragraphs{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.footer{
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#par1{
+    background-color: rgb(51, 51, 173);
+    color: white;
+}
+#par2{
+    background-color:yellow;
+    color: white;
+}
+
+#par3{
+    background-color:green;
+    color: white;
+}
